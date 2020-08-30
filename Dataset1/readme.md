@@ -1,4 +1,4 @@
-# Información sobre el dataset 
+# Información sobre el dataset
 <b><i>Dataset extraido de UCI </i></b>
 Este conjunto de datos está relacionado con variantes tintas del vino portugués "Vinho Verde". Para más detalles, consulte la referencia [Cortez et al., 2009]. Debido a cuestiones de privacidad y logística, solo están disponibles las variables fisicoquímicas (entradas) y sensoriales (la salida) (por ejemplo, no hay datos sobre tipos de uva, marca de vino, precio de venta del vino, etc.).
 
@@ -23,6 +23,6 @@ Variables de entrada (basadas en pruebas fisicoquímicas):
 10 - sulphates
 11 - alcohol
 Output variable (based on sensory data):
-12 - quality (score between 0 and 10)
+12 - quality (score entre 0 y 10)
 
 Tambien debe cambiar el valor de salida de manera binaria, donde "quality" inferior a 7 está categorizado como 0 (malo) y "quality" mayor a 7 categorizado como 1 (bueno).
